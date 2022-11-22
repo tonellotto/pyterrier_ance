@@ -1,4 +1,4 @@
 python-terrier>=0.7.0
 pandas
-git+https://github.com/tonellotto/ANCE.git
+git+https://github.com/tonellotto/ANCE.git@upgrade_transformers
 tensorboardX
